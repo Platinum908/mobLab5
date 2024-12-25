@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.baldezh.lab5.app-mergeDebugResources-31:\\layout\\activity_calc.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.baldezh.lab5.app-main-34:\\layout\\activity_calc.xml"
+    },
+    {
+        "merged": "com.baldezh.lab5.app-mergeDebugResources-31:/layout/activity_input.xml",
+        "source": "com.baldezh.lab5.app-main-34:/layout/activity_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.baldezh.lab5.app-mergeDebugResources-31:\\layout\\activity_input.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.baldezh.lab5.app-main-34:\\layout\\activity_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.baldezh.lab5.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.baldezh.lab5.app-main-34:\\layout\\activity_main.xml"
+    }
+]
